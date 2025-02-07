@@ -1,0 +1,15 @@
+/* style.css */
+
+.rigby {
+    background-color: black;
+    color: white;
+}
+
+.ogby {
+    background-color: yellow;
+}
+
+.rigby,.ogby {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
